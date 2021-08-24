@@ -1,0 +1,39 @@
+.nav{
+    height: 50px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.nav-title{
+    width: 100px;
+    padding: 20px;
+}
+
+
+.nav-links{
+    width: 400px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+a{
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+li{
+    list-style-type: none;
+}
+
+.btn{
+    height: 25px;
+    border: black;
+    background-color:skyblue;
+    color: white;
+}
